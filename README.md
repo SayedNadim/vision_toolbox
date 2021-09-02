@@ -19,6 +19,7 @@ I will update this repo in my free time. So, I have no hurry in completing every
 - [ ] Callbacks
 - [ ] Loggers
 - [ ] Metrics
-- [ ] Visualizers
+- [ ] Visualizers/Plotters
 - [ ] Training/testing utils
 - [ ] Other vision utils
+- [ ] Organize everything in order
